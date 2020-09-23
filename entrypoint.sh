@@ -12,7 +12,7 @@ echo "Starting Jekyll build"
 chmod -R a+w /github/workspace
 cd ..
 cd ..
-chmod -R a+w 
+chmod -R a+w /_site
 
 ####################################################
 # Build the Jekyll site
